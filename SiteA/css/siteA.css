@@ -1,1 +1,32 @@
-
+.program {
+    font-size: 40px;
+    font-family: "Times New Roman";
+}
+p {
+    font-size:20px;
+}
+table, th, td {
+    border: 2px solid black;
+    border-collapse:collapse;
+    background-color: palegoldenrod;
+    text-align: center
+}
+img {
+    height: 100px;
+    width: 100px;
+}
+body#studioArt{
+    background-color: antiquewhite
+}
+body#Economics{
+    background-color: lightgray
+}
+body#Politics{
+    background-color:lightcoral;
+}
+body#computerScience{
+    background-color: beige
+}
+boody#Methematics{
+    background-color:lightblue;
+}
